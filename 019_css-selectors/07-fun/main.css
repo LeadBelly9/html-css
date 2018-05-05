@@ -13,9 +13,9 @@ body {
     align-items: center;
 }
 
-/*div p {*/
+/* div p { */
 div > p {
-/*div ~ p {*/
-/*div + p {*/
+/* div ~ p { */
+/* div + p { */
     color: red;
 }
