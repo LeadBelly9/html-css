@@ -1,0 +1,8 @@
+p:first-letter {
+  color: black;
+  font-size: 48px;
+}
+
+p:first-line {
+  color: red;
+}
