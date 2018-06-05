@@ -12,6 +12,7 @@ main {
     border: 2px solid red;
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 div {

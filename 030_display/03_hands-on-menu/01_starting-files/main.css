@@ -8,9 +8,15 @@ html {
 
 ul {
     list-style: none;
+    /* display: inline; */
 }
 
 li {
+    display: inline-block;
     /*border: 2px solid red;*/
     border-radius: 50px;
+}
+
+a:hover {
+    background-color: green;
 }
