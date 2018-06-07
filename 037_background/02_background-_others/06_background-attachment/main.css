@@ -8,8 +8,8 @@ html, body, div, h1 {
 #atf {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
-    padding-top: 20vh;
+    align-items: center;
+    /* padding-top: 20vh; */
     /* formatting */
     height: 100vh;
     background-image: url(paradise-island.jpg);

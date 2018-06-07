@@ -1,0 +1,21 @@
+#idx-atf {
+  height: 100vh;
+  display: flex;
+  /* flex-flow: row nowrap; */
+  justify-content: center;
+  align-items: center;
+}
+
+#idx-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
