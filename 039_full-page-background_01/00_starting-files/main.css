@@ -6,7 +6,7 @@
   align-items: center;
 }
 
-#idx-center {
+.idx-center {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -15,7 +15,15 @@
 
 h1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 700;
+  line-height: 1.125;
+  margin-bottom: 1.5rem;
 }
 
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.125;
+}
